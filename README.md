@@ -1,5 +1,5 @@
-[![GitHub License](https://img.shields.io/github/license/nicklima/nextjs-finance-dashboard)](https://github.com/nicklima/nextjs-finance-dashboard)
-[![ISSUES](https://img.shields.io/github/issues/nicklima/nextjs-finance-dashboard)](https://github.com/nicklima/nextjs-finance-dashboard/issues)
+[![GitHub License](https://img.shields.io/github/license/nicklima/nextjs-finance-dashboard?style=flat-square)](https://github.com/nicklima/nextjs-finance-dashboard/blob/main/LICENSE)
+[![ISSUES](https://img.shields.io/github/issues/nicklima/nextjs-finance-dashboard?style=flat-square)](https://github.com/nicklima/nextjs-finance-dashboard/issues)
 
 # React - Finance Dashboard App
 
