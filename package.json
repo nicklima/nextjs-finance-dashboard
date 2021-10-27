@@ -1,0 +1,36 @@
+{
+  "name": "nextjs-finance-dashboard",
+  "version": "1.0.0",
+  "description": "Finance Dashboard App",
+  "scripts": {
+    "client": "npx prisma generate",
+    "studio": "npx prisma studio",
+    "dev": "next",
+    "build": "yarn run client && next build",
+    "start": "yarn run build && next start"
+  },
+  "keywords": [
+    "NextJS",
+    "Prisma",
+    "React",
+    "TypeScript",
+    "Styled Components"
+  ],
+  "author": "Nick Lima",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^3.3.0",
+    "next": "9.5.5",
+    "prisma": "^3.3.0",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-markdown": "5.0.2",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "14.14.6",
+    "@types/react": "16.9.56",
+    "@types/styled-components": "^5.1.15",
+    "typescript": "^4.1.5"
+  }
+}
